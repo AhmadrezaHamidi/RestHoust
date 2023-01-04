@@ -1,0 +1,261 @@
+F:\eSal\Afarinesh\KarAmuzi\WebApi\Web api with identity & token\Library - HelatAbadi\bin\Debug\net5.0\appsettings.Development.json
+F:\eSal\Afarinesh\KarAmuzi\WebApi\Web api with identity & token\Library - HelatAbadi\bin\Debug\net5.0\appsettings.json
+F:\eSal\Afarinesh\KarAmuzi\WebApi\Web api with identity & token\Library - HelatAbadi\bin\Debug\net5.0\TodoApi.exe
+F:\eSal\Afarinesh\KarAmuzi\WebApi\Web api with identity & token\Library - HelatAbadi\bin\Debug\net5.0\TodoApi.deps.json
+F:\eSal\Afarinesh\KarAmuzi\WebApi\Web api with identity & token\Library - HelatAbadi\bin\Debug\net5.0\TodoApi.runtimeconfig.json
+F:\eSal\Afarinesh\KarAmuzi\WebApi\Web api with identity & token\Library - HelatAbadi\bin\Debug\net5.0\TodoApi.runtimeconfig.dev.json
+F:\eSal\Afarinesh\KarAmuzi\WebApi\Web api with identity & token\Library - HelatAbadi\bin\Debug\net5.0\TodoApi.dll
+F:\eSal\Afarinesh\KarAmuzi\WebApi\Web api with identity & token\Library - HelatAbadi\bin\Debug\net5.0\ref\TodoApi.dll
+F:\eSal\Afarinesh\KarAmuzi\WebApi\Web api with identity & token\Library - HelatAbadi\bin\Debug\net5.0\TodoApi.pdb
+F:\eSal\Afarinesh\KarAmuzi\WebApi\Web api with identity & token\Library - HelatAbadi\bin\Debug\net5.0\gfoidl.Base64.dll
+F:\eSal\Afarinesh\KarAmuzi\WebApi\Web api with identity & token\Library - HelatAbadi\bin\Debug\net5.0\JsonWebToken.dll
+F:\eSal\Afarinesh\KarAmuzi\WebApi\Web api with identity & token\Library - HelatAbadi\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+F:\eSal\Afarinesh\KarAmuzi\WebApi\Web api with identity & token\Library - HelatAbadi\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+F:\eSal\Afarinesh\KarAmuzi\WebApi\Web api with identity & token\Library - HelatAbadi\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+F:\eSal\Afarinesh\KarAmuzi\WebApi\Web api with identity & token\Library - HelatAbadi\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+F:\eSal\Afarinesh\KarAmuzi\WebApi\Web api with identity & token\Library - HelatAbadi\bin\Debug\net5.0\Microsoft.Bcl.HashCode.dll
+F:\eSal\Afarinesh\KarAmuzi\WebApi\Web api with identity & token\Library - HelatAbadi\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+F:\eSal\Afarinesh\KarAmuzi\WebApi\Web api with identity & token\Library - HelatAbadi\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+F:\eSal\Afarinesh\KarAmuzi\WebApi\Web api with identity & token\Library - HelatAbadi\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+F:\eSal\Afarinesh\KarAmuzi\WebApi\Web api with identity & token\Library - HelatAbadi\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+F:\eSal\Afarinesh\KarAmuzi\WebApi\Web api with identity & token\Library - HelatAbadi\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+F:\eSal\Afarinesh\KarAmuzi\WebApi\Web api with identity & token\Library - HelatAbadi\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+F:\eSal\Afarinesh\KarAmuzi\WebApi\Web api with identity & token\Library - HelatAbadi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+F:\eSal\Afarinesh\KarAmuzi\WebApi\Web api with identity & token\Library - HelatAbadi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\eSal\Afarinesh\KarAmuzi\WebApi\Web api with identity & token\Library - HelatAbadi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+F:\eSal\Afarinesh\KarAmuzi\WebApi\Web api with identity & token\Library - HelatAbadi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.InMemory.dll
+F:\eSal\Afarinesh\KarAmuzi\WebApi\Web api with identity & token\Library - HelatAbadi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\eSal\Afarinesh\KarAmuzi\WebApi\Web api with identity & token\Library - HelatAbadi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\eSal\Afarinesh\KarAmuzi\WebApi\Web api with identity & token\Library - HelatAbadi\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+F:\eSal\Afarinesh\KarAmuzi\WebApi\Web api with identity & token\Library - HelatAbadi\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\eSal\Afarinesh\KarAmuzi\WebApi\Web api with identity & token\Library - HelatAbadi\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+F:\eSal\Afarinesh\KarAmuzi\WebApi\Web api with identity & token\Library - HelatAbadi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+F:\eSal\Afarinesh\KarAmuzi\WebApi\Web api with identity & token\Library - HelatAbadi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\eSal\Afarinesh\KarAmuzi\WebApi\Web api with identity & token\Library - HelatAbadi\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+F:\eSal\Afarinesh\KarAmuzi\WebApi\Web api with identity & token\Library - HelatAbadi\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+F:\eSal\Afarinesh\KarAmuzi\WebApi\Web api with identity & token\Library - HelatAbadi\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+F:\eSal\Afarinesh\KarAmuzi\WebApi\Web api with identity & token\Library - HelatAbadi\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+F:\eSal\Afarinesh\KarAmuzi\WebApi\Web api with identity & token\Library - HelatAbadi\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+F:\eSal\Afarinesh\KarAmuzi\WebApi\Web api with identity & token\Library - HelatAbadi\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+F:\eSal\Afarinesh\KarAmuzi\WebApi\Web api with identity & token\Library - HelatAbadi\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+F:\eSal\Afarinesh\KarAmuzi\WebApi\Web api with identity & token\Library - HelatAbadi\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+F:\eSal\Afarinesh\KarAmuzi\WebApi\Web api with identity & token\Library - HelatAbadi\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+F:\eSal\Afarinesh\KarAmuzi\WebApi\Web api with identity & token\Library - HelatAbadi\bin\Debug\net5.0\Newtonsoft.Json.dll
+F:\eSal\Afarinesh\KarAmuzi\WebApi\Web api with identity & token\Library - HelatAbadi\bin\Debug\net5.0\NuGet.Frameworks.dll
+F:\eSal\Afarinesh\KarAmuzi\WebApi\Web api with identity & token\Library - HelatAbadi\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+F:\eSal\Afarinesh\KarAmuzi\WebApi\Web api with identity & token\Library - HelatAbadi\bin\Debug\net5.0\System.Composition.Convention.dll
+F:\eSal\Afarinesh\KarAmuzi\WebApi\Web api with identity & token\Library - HelatAbadi\bin\Debug\net5.0\System.Composition.Hosting.dll
+F:\eSal\Afarinesh\KarAmuzi\WebApi\Web api with identity & token\Library - HelatAbadi\bin\Debug\net5.0\System.Composition.Runtime.dll
+F:\eSal\Afarinesh\KarAmuzi\WebApi\Web api with identity & token\Library - HelatAbadi\bin\Debug\net5.0\System.Composition.TypedParts.dll
+F:\eSal\Afarinesh\KarAmuzi\WebApi\Web api with identity & token\Library - HelatAbadi\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+F:\eSal\Afarinesh\KarAmuzi\WebApi\Web api with identity & token\Library - HelatAbadi\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+F:\eSal\Afarinesh\KarAmuzi\WebApi\Web api with identity & token\Library - HelatAbadi\bin\Debug\net5.0\System.Runtime.Caching.dll
+F:\eSal\Afarinesh\KarAmuzi\WebApi\Web api with identity & token\Library - HelatAbadi\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+F:\eSal\Afarinesh\KarAmuzi\WebApi\Web api with identity & token\Library - HelatAbadi\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+F:\eSal\Afarinesh\KarAmuzi\WebApi\Web api with identity & token\Library - HelatAbadi\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+F:\eSal\Afarinesh\KarAmuzi\WebApi\Web api with identity & token\Library - HelatAbadi\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+F:\eSal\Afarinesh\KarAmuzi\WebApi\Web api with identity & token\Library - HelatAbadi\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+F:\eSal\Afarinesh\KarAmuzi\WebApi\Web api with identity & token\Library - HelatAbadi\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+F:\eSal\Afarinesh\KarAmuzi\WebApi\Web api with identity & token\Library - HelatAbadi\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+F:\eSal\Afarinesh\KarAmuzi\WebApi\Web api with identity & token\Library - HelatAbadi\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+F:\eSal\Afarinesh\KarAmuzi\WebApi\Web api with identity & token\Library - HelatAbadi\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+F:\eSal\Afarinesh\KarAmuzi\WebApi\Web api with identity & token\Library - HelatAbadi\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+F:\eSal\Afarinesh\KarAmuzi\WebApi\Web api with identity & token\Library - HelatAbadi\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+F:\eSal\Afarinesh\KarAmuzi\WebApi\Web api with identity & token\Library - HelatAbadi\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+F:\eSal\Afarinesh\KarAmuzi\WebApi\Web api with identity & token\Library - HelatAbadi\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+F:\eSal\Afarinesh\KarAmuzi\WebApi\Web api with identity & token\Library - HelatAbadi\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+F:\eSal\Afarinesh\KarAmuzi\WebApi\Web api with identity & token\Library - HelatAbadi\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\eSal\Afarinesh\KarAmuzi\WebApi\Web api with identity & token\Library - HelatAbadi\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\eSal\Afarinesh\KarAmuzi\WebApi\Web api with identity & token\Library - HelatAbadi\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\eSal\Afarinesh\KarAmuzi\WebApi\Web api with identity & token\Library - HelatAbadi\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\eSal\Afarinesh\KarAmuzi\WebApi\Web api with identity & token\Library - HelatAbadi\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\eSal\Afarinesh\KarAmuzi\WebApi\Web api with identity & token\Library - HelatAbadi\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\eSal\Afarinesh\KarAmuzi\WebApi\Web api with identity & token\Library - HelatAbadi\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\eSal\Afarinesh\KarAmuzi\WebApi\Web api with identity & token\Library - HelatAbadi\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\eSal\Afarinesh\KarAmuzi\WebApi\Web api with identity & token\Library - HelatAbadi\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\eSal\Afarinesh\KarAmuzi\WebApi\Web api with identity & token\Library - HelatAbadi\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\eSal\Afarinesh\KarAmuzi\WebApi\Web api with identity & token\Library - HelatAbadi\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\eSal\Afarinesh\KarAmuzi\WebApi\Web api with identity & token\Library - HelatAbadi\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\eSal\Afarinesh\KarAmuzi\WebApi\Web api with identity & token\Library - HelatAbadi\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\eSal\Afarinesh\KarAmuzi\WebApi\Web api with identity & token\Library - HelatAbadi\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\eSal\Afarinesh\KarAmuzi\WebApi\Web api with identity & token\Library - HelatAbadi\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\eSal\Afarinesh\KarAmuzi\WebApi\Web api with identity & token\Library - HelatAbadi\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\eSal\Afarinesh\KarAmuzi\WebApi\Web api with identity & token\Library - HelatAbadi\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\eSal\Afarinesh\KarAmuzi\WebApi\Web api with identity & token\Library - HelatAbadi\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\eSal\Afarinesh\KarAmuzi\WebApi\Web api with identity & token\Library - HelatAbadi\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\eSal\Afarinesh\KarAmuzi\WebApi\Web api with identity & token\Library - HelatAbadi\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\eSal\Afarinesh\KarAmuzi\WebApi\Web api with identity & token\Library - HelatAbadi\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\eSal\Afarinesh\KarAmuzi\WebApi\Web api with identity & token\Library - HelatAbadi\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\eSal\Afarinesh\KarAmuzi\WebApi\Web api with identity & token\Library - HelatAbadi\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\eSal\Afarinesh\KarAmuzi\WebApi\Web api with identity & token\Library - HelatAbadi\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\eSal\Afarinesh\KarAmuzi\WebApi\Web api with identity & token\Library - HelatAbadi\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\eSal\Afarinesh\KarAmuzi\WebApi\Web api with identity & token\Library - HelatAbadi\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\eSal\Afarinesh\KarAmuzi\WebApi\Web api with identity & token\Library - HelatAbadi\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\eSal\Afarinesh\KarAmuzi\WebApi\Web api with identity & token\Library - HelatAbadi\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\eSal\Afarinesh\KarAmuzi\WebApi\Web api with identity & token\Library - HelatAbadi\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\eSal\Afarinesh\KarAmuzi\WebApi\Web api with identity & token\Library - HelatAbadi\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\eSal\Afarinesh\KarAmuzi\WebApi\Web api with identity & token\Library - HelatAbadi\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\eSal\Afarinesh\KarAmuzi\WebApi\Web api with identity & token\Library - HelatAbadi\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\eSal\Afarinesh\KarAmuzi\WebApi\Web api with identity & token\Library - HelatAbadi\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\eSal\Afarinesh\KarAmuzi\WebApi\Web api with identity & token\Library - HelatAbadi\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\eSal\Afarinesh\KarAmuzi\WebApi\Web api with identity & token\Library - HelatAbadi\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\eSal\Afarinesh\KarAmuzi\WebApi\Web api with identity & token\Library - HelatAbadi\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\eSal\Afarinesh\KarAmuzi\WebApi\Web api with identity & token\Library - HelatAbadi\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\eSal\Afarinesh\KarAmuzi\WebApi\Web api with identity & token\Library - HelatAbadi\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\eSal\Afarinesh\KarAmuzi\WebApi\Web api with identity & token\Library - HelatAbadi\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\eSal\Afarinesh\KarAmuzi\WebApi\Web api with identity & token\Library - HelatAbadi\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+F:\eSal\Afarinesh\KarAmuzi\WebApi\Web api with identity & token\Library - HelatAbadi\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+F:\eSal\Afarinesh\KarAmuzi\WebApi\Web api with identity & token\Library - HelatAbadi\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+F:\eSal\Afarinesh\KarAmuzi\WebApi\Web api with identity & token\Library - HelatAbadi\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+F:\eSal\Afarinesh\KarAmuzi\WebApi\Web api with identity & token\Library - HelatAbadi\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+F:\eSal\Afarinesh\KarAmuzi\WebApi\Web api with identity & token\Library - HelatAbadi\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+F:\eSal\Afarinesh\KarAmuzi\WebApi\Web api with identity & token\Library - HelatAbadi\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+F:\eSal\Afarinesh\KarAmuzi\WebApi\Web api with identity & token\Library - HelatAbadi\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\eSal\Afarinesh\KarAmuzi\WebApi\Web api with identity & token\Library - HelatAbadi\obj\Debug\net5.0\TodoApi.csproj.AssemblyReference.cache
+F:\eSal\Afarinesh\KarAmuzi\WebApi\Web api with identity & token\Library - HelatAbadi\obj\Debug\net5.0\TodoApi.GeneratedMSBuildEditorConfig.editorconfig
+F:\eSal\Afarinesh\KarAmuzi\WebApi\Web api with identity & token\Library - HelatAbadi\obj\Debug\net5.0\TodoApi.AssemblyInfoInputs.cache
+F:\eSal\Afarinesh\KarAmuzi\WebApi\Web api with identity & token\Library - HelatAbadi\obj\Debug\net5.0\TodoApi.AssemblyInfo.cs
+F:\eSal\Afarinesh\KarAmuzi\WebApi\Web api with identity & token\Library - HelatAbadi\obj\Debug\net5.0\TodoApi.csproj.CoreCompileInputs.cache
+F:\eSal\Afarinesh\KarAmuzi\WebApi\Web api with identity & token\Library - HelatAbadi\obj\Debug\net5.0\TodoApi.MvcApplicationPartsAssemblyInfo.cache
+F:\eSal\Afarinesh\KarAmuzi\WebApi\Web api with identity & token\Library - HelatAbadi\obj\Debug\net5.0\staticwebassets\TodoApi.StaticWebAssets.Manifest.cache
+F:\eSal\Afarinesh\KarAmuzi\WebApi\Web api with identity & token\Library - HelatAbadi\obj\Debug\net5.0\staticwebassets\TodoApi.StaticWebAssets.xml
+F:\eSal\Afarinesh\KarAmuzi\WebApi\Web api with identity & token\Library - HelatAbadi\obj\Debug\net5.0\scopedcss\bundle\TodoApi.styles.css
+F:\eSal\Afarinesh\KarAmuzi\WebApi\Web api with identity & token\Library - HelatAbadi\obj\Debug\net5.0\TodoApi.RazorTargetAssemblyInfo.cache
+F:\eSal\Afarinesh\KarAmuzi\WebApi\Web api with identity & token\Library - HelatAbadi\obj\Debug\net5.0\TodoApi.csproj.CopyComplete
+F:\eSal\Afarinesh\KarAmuzi\WebApi\Web api with identity & token\Library - HelatAbadi\obj\Debug\net5.0\TodoApi.dll
+F:\eSal\Afarinesh\KarAmuzi\WebApi\Web api with identity & token\Library - HelatAbadi\obj\Debug\net5.0\ref\TodoApi.dll
+F:\eSal\Afarinesh\KarAmuzi\WebApi\Web api with identity & token\Library - HelatAbadi\obj\Debug\net5.0\TodoApi.pdb
+F:\eSal\Afarinesh\KarAmuzi\WebApi\Web api with identity & token\Library - HelatAbadi\obj\Debug\net5.0\TodoApi.genruntimeconfig.cache
+G:\LibraryWithIdentity\obj\Debug\net5.0\TodoApi.csproj.AssemblyReference.cache
+G:\LibraryWithIdentity\obj\Debug\net5.0\TodoApi.GeneratedMSBuildEditorConfig.editorconfig
+G:\LibraryWithIdentity\obj\Debug\net5.0\TodoApi.AssemblyInfoInputs.cache
+G:\LibraryWithIdentity\obj\Debug\net5.0\TodoApi.AssemblyInfo.cs
+G:\LibraryWithIdentity\obj\Debug\net5.0\TodoApi.csproj.CoreCompileInputs.cache
+G:\LibraryWithIdentity\obj\Debug\net5.0\TodoApi.MvcApplicationPartsAssemblyInfo.cache
+G:\LibraryWithIdentity\obj\Debug\net5.0\TodoApi.dll
+G:\LibraryWithIdentity\obj\Debug\net5.0\ref\TodoApi.dll
+G:\LibraryWithIdentity\obj\Debug\net5.0\TodoApi.pdb
+G:\LibraryWithIdentity\bin\Debug\net5.0\appsettings.Development.json
+G:\LibraryWithIdentity\bin\Debug\net5.0\appsettings.json
+G:\LibraryWithIdentity\bin\Debug\net5.0\TodoApi.StaticWebAssets.xml
+G:\LibraryWithIdentity\bin\Debug\net5.0\TodoApi.exe
+G:\LibraryWithIdentity\bin\Debug\net5.0\TodoApi.deps.json
+G:\LibraryWithIdentity\bin\Debug\net5.0\TodoApi.runtimeconfig.json
+G:\LibraryWithIdentity\bin\Debug\net5.0\TodoApi.runtimeconfig.dev.json
+G:\LibraryWithIdentity\bin\Debug\net5.0\TodoApi.dll
+G:\LibraryWithIdentity\bin\Debug\net5.0\ref\TodoApi.dll
+G:\LibraryWithIdentity\bin\Debug\net5.0\TodoApi.pdb
+G:\LibraryWithIdentity\bin\Debug\net5.0\gfoidl.Base64.dll
+G:\LibraryWithIdentity\bin\Debug\net5.0\JsonWebToken.dll
+G:\LibraryWithIdentity\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+G:\LibraryWithIdentity\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+G:\LibraryWithIdentity\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+G:\LibraryWithIdentity\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+G:\LibraryWithIdentity\bin\Debug\net5.0\Microsoft.Bcl.HashCode.dll
+G:\LibraryWithIdentity\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+G:\LibraryWithIdentity\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+G:\LibraryWithIdentity\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+G:\LibraryWithIdentity\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+G:\LibraryWithIdentity\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+G:\LibraryWithIdentity\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+G:\LibraryWithIdentity\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+G:\LibraryWithIdentity\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+G:\LibraryWithIdentity\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+G:\LibraryWithIdentity\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.InMemory.dll
+G:\LibraryWithIdentity\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+G:\LibraryWithIdentity\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+G:\LibraryWithIdentity\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+G:\LibraryWithIdentity\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+G:\LibraryWithIdentity\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+G:\LibraryWithIdentity\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+G:\LibraryWithIdentity\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+G:\LibraryWithIdentity\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+G:\LibraryWithIdentity\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+G:\LibraryWithIdentity\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+G:\LibraryWithIdentity\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+G:\LibraryWithIdentity\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+G:\LibraryWithIdentity\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+G:\LibraryWithIdentity\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+G:\LibraryWithIdentity\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+G:\LibraryWithIdentity\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+G:\LibraryWithIdentity\bin\Debug\net5.0\Newtonsoft.Json.dll
+G:\LibraryWithIdentity\bin\Debug\net5.0\NuGet.Frameworks.dll
+G:\LibraryWithIdentity\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+G:\LibraryWithIdentity\bin\Debug\net5.0\System.Composition.Convention.dll
+G:\LibraryWithIdentity\bin\Debug\net5.0\System.Composition.Hosting.dll
+G:\LibraryWithIdentity\bin\Debug\net5.0\System.Composition.Runtime.dll
+G:\LibraryWithIdentity\bin\Debug\net5.0\System.Composition.TypedParts.dll
+G:\LibraryWithIdentity\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+G:\LibraryWithIdentity\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+G:\LibraryWithIdentity\bin\Debug\net5.0\System.Runtime.Caching.dll
+G:\LibraryWithIdentity\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+G:\LibraryWithIdentity\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+G:\LibraryWithIdentity\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+G:\LibraryWithIdentity\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+G:\LibraryWithIdentity\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+G:\LibraryWithIdentity\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+G:\LibraryWithIdentity\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+G:\LibraryWithIdentity\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+G:\LibraryWithIdentity\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+G:\LibraryWithIdentity\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+G:\LibraryWithIdentity\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+G:\LibraryWithIdentity\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+G:\LibraryWithIdentity\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+G:\LibraryWithIdentity\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+G:\LibraryWithIdentity\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\LibraryWithIdentity\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\LibraryWithIdentity\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\LibraryWithIdentity\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\LibraryWithIdentity\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\LibraryWithIdentity\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\LibraryWithIdentity\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\LibraryWithIdentity\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\LibraryWithIdentity\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\LibraryWithIdentity\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\LibraryWithIdentity\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\LibraryWithIdentity\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\LibraryWithIdentity\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\LibraryWithIdentity\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\LibraryWithIdentity\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\LibraryWithIdentity\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\LibraryWithIdentity\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\LibraryWithIdentity\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\LibraryWithIdentity\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\LibraryWithIdentity\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\LibraryWithIdentity\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\LibraryWithIdentity\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\LibraryWithIdentity\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\LibraryWithIdentity\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\LibraryWithIdentity\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\LibraryWithIdentity\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\LibraryWithIdentity\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\LibraryWithIdentity\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\LibraryWithIdentity\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\LibraryWithIdentity\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\LibraryWithIdentity\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\LibraryWithIdentity\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\LibraryWithIdentity\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\LibraryWithIdentity\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\LibraryWithIdentity\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\LibraryWithIdentity\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\LibraryWithIdentity\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\LibraryWithIdentity\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\LibraryWithIdentity\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\LibraryWithIdentity\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+G:\LibraryWithIdentity\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+G:\LibraryWithIdentity\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+G:\LibraryWithIdentity\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+G:\LibraryWithIdentity\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+G:\LibraryWithIdentity\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+G:\LibraryWithIdentity\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+G:\LibraryWithIdentity\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+G:\LibraryWithIdentity\obj\Debug\net5.0\scopedcss\bundle\TodoApi.styles.css
+G:\LibraryWithIdentity\obj\Debug\net5.0\staticwebassets\TodoApi.StaticWebAssets.Manifest.cache
+G:\LibraryWithIdentity\obj\Debug\net5.0\TodoApi.RazorTargetAssemblyInfo.cache
+G:\LibraryWithIdentity\obj\Debug\net5.0\TodoApi.csproj.CopyComplete
+G:\LibraryWithIdentity\obj\Debug\net5.0\TodoApi.genruntimeconfig.cache
+G:\LibraryWithIdentity\bin\Debug\net5.0\Microsoft.OpenApi.dll
+G:\LibraryWithIdentity\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+G:\LibraryWithIdentity\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+G:\LibraryWithIdentity\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+G:\LibraryWithIdentity\obj\Debug\net5.0\TodoApi.MvcApplicationPartsAssemblyInfo.cs
