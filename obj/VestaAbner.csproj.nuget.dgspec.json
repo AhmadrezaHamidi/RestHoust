@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\10\\source\\repos\\VestaAbner\\VestaAbner.csproj": {}
+    "D:\\LibraryWithIdentity\\Git\\UserBook-\\VestaAbner.csproj": {}
   },
   "projects": {
-    "C:\\Users\\10\\source\\repos\\VestaAbner\\VestaAbner.csproj": {
+    "D:\\LibraryWithIdentity\\Git\\UserBook-\\VestaAbner.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\10\\source\\repos\\VestaAbner\\VestaAbner.csproj",
+        "projectUniqueName": "D:\\LibraryWithIdentity\\Git\\UserBook-\\VestaAbner.csproj",
         "projectName": "VestaAbner",
-        "projectPath": "C:\\Users\\10\\source\\repos\\VestaAbner\\VestaAbner.csproj",
-        "packagesPath": "C:\\Users\\10\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\10\\source\\repos\\VestaAbner\\obj\\",
+        "projectPath": "D:\\LibraryWithIdentity\\Git\\UserBook-\\VestaAbner.csproj",
+        "packagesPath": "C:\\Users\\MAHONE\\.nuget\\packages\\",
+        "outputPath": "D:\\LibraryWithIdentity\\Git\\UserBook-\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\10\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\MAHONE\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -26,6 +26,7 @@
         },
         "frameworks": {
           "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
             "projectReferences": {}
           }
         },
@@ -37,6 +38,7 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "dependencies": {
             "Microsoft.AspNetCore.Authentication.JwtBearer": {
               "target": "Package",
@@ -71,10 +73,17 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[3.1.31, 3.1.31]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.AspNetCore.App": {
               "privateAssets": "none"
@@ -83,7 +92,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }
